@@ -101,7 +101,7 @@ ul {
   display: flex;
   justify-content: space-between;
   position: relative;
-  width: 1170px;
+  /* width: 1170px; */
 }
 .header .container::before {
   content: "";
